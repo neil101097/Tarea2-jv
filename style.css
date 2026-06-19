@@ -1,0 +1,11 @@
+#resultado {
+    font-weight: bold;
+}
+
+.exito {
+    color: green;
+}
+
+.error {
+    color: red;
+}
